@@ -18,13 +18,13 @@ A Colorado Board of Elections employee has given you the following taks to compl
 The analysis of the election show that:
 -There were "x" votes cast in the election.
 -The candidates were:
-  a.
-  b.
-  c.
+  -Charles Casper Stockham
+  -Diana DeGette
+  -Raymon Anthony Doane
  -The candidates results were:
-  -a. received "x%" of the votes and "y" number of votes.
-  -b. received "x%" of the votes and "y" number of votes.
-  -c. received "x%" of the votes and "y" number of votes.
+  -Charles Casper Stockham received "x%" of the votes and "y" number of votes.
+  -Diana DeGette received "x%" of the votes and "y" number of votes.
+  -Raymon Anthony Doane received "x%" of the votes and "y" number of votes.
   -The winner of the election was:
   -a. received "x%" of the votes and "y" number of votes.
   
